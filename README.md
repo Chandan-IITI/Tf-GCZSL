@@ -1,7 +1,7 @@
 # Tf-GCZSL
 Task-free Generalized Continual Zero-shot Learning (Tf-GCZSL) 
 
-##To run the code for task-agnostic setting follow the following instructions:
+## To run the code for task-agnostic setting follow the following instructions:
 
 1) Go to 'tfgczsl_task_agnostic' folder
 2) First run the 'data_loader.py' script to process the data. 
