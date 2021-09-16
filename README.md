@@ -6,9 +6,9 @@ Task-free Generalized Continual Zero-shot Learning (Tf-GCZSL)
 1) Go to 'tfgczsl_task_agnostic' folder
 2) First run the 'data_loader.py' script to process the data. 
 3) Run the 'tfgczsl.py' to get the results in .csv file. (Harmonic Mean, Seen Accuracy, Unseen Accuracy) 
- 
-Note: 
 
+Note: 
+=
       * The path variable must be changed to point to the dataset location. (CUB Dataset)
 
       * The Dataset can be downloaded from https://www.dropbox.com/sh/mrofy57ci4jcmx5/AACeN9zNpAe_ZyNi0_iouASma?dl=0 
