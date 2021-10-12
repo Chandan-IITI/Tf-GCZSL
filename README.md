@@ -1,5 +1,6 @@
 # Tf-GCZSL
-Task-free Generalized Continual Zero-shot Learning (Tf-GCZSL) 
+Paper: Task-free Generalized Continual Zero-shot Learning (Tf-GCZSL) 
+Link: https://arxiv.org/abs/2103.10741v1
 
 ## To run the code for task-agnostic setting follow the following instructions:
 
