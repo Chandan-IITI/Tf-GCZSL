@@ -9,7 +9,7 @@ Link: https://arxiv.org/abs/2103.10741v1
 3) Run the 'tfgczsl.py' to get the results in .csv file. (Harmonic Mean, Seen Accuracy, Unseen Accuracy) 
 
 Note: 
-=
+
       * The path variable must be changed to point to the dataset location. (CUB Dataset)
 
       * The Dataset can be downloaded from https://www.dropbox.com/sh/mrofy57ci4jcmx5/AACeN9zNpAe_ZyNi0_iouASma?dl=0 
