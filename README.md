@@ -1,5 +1,5 @@
 # Tf-GCZSL
-Paper: Task-free Generalized Continual Zero-shot Learning (Tf-GCZSL) (Neural Network-2022)
+Paper: Task-free Generalized Continual Zero-shot Learning (Tf-GCZSL) (**Neural Network, 2022**)
 
 Link: https://www.sciencedirect.com/science/article/abs/pii/S0893608022003343
 
